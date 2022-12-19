@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\C#\20 dechw visual\20 dechw visual\bin\Debug\netcoreapp3.1\20 dechw visual.exe
+C:\Users\user\OneDrive\Desktop\C#\20 dechw visual\20 dechw visual\bin\Debug\netcoreapp3.1\20 dechw visual.deps.json
+C:\Users\user\OneDrive\Desktop\C#\20 dechw visual\20 dechw visual\bin\Debug\netcoreapp3.1\20 dechw visual.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\C#\20 dechw visual\20 dechw visual\bin\Debug\netcoreapp3.1\20 dechw visual.runtimeconfig.dev.json
+C:\Users\user\OneDrive\Desktop\C#\20 dechw visual\20 dechw visual\bin\Debug\netcoreapp3.1\20 dechw visual.dll
+C:\Users\user\OneDrive\Desktop\C#\20 dechw visual\20 dechw visual\bin\Debug\netcoreapp3.1\20 dechw visual.pdb
+C:\Users\user\OneDrive\Desktop\C#\20 dechw visual\20 dechw visual\obj\Debug\netcoreapp3.1\20 dechw visual.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\C#\20 dechw visual\20 dechw visual\obj\Debug\netcoreapp3.1\20 dechw visual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\C#\20 dechw visual\20 dechw visual\obj\Debug\netcoreapp3.1\20 dechw visual.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\C#\20 dechw visual\20 dechw visual\obj\Debug\netcoreapp3.1\20 dechw visual.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\C#\20 dechw visual\20 dechw visual\obj\Debug\netcoreapp3.1\20 dechw visual.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\C#\20 dechw visual\20 dechw visual\obj\Debug\netcoreapp3.1\20 dechw visual.dll
+C:\Users\user\OneDrive\Desktop\C#\20 dechw visual\20 dechw visual\obj\Debug\netcoreapp3.1\20 dechw visual.pdb
+C:\Users\user\OneDrive\Desktop\C#\20 dechw visual\20 dechw visual\obj\Debug\netcoreapp3.1\20 dechw visual.genruntimeconfig.cache
